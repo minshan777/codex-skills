@@ -1,0 +1,4 @@
+interface:
+  display_name: "生成测试资源"
+  short_description: "按已有测试用例生成图片、视频和音频，分类打包，仅交付素材ZIP"
+  default_prompt: "使用 $qa-test-assets，生成当前测试用例需要的测试资源，按图片、视频、音频分类打包，只发素材压缩包。"
