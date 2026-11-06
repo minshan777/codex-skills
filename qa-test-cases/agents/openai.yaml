@@ -1,0 +1,4 @@
+interface:
+  display_name: "测试用例 Excel"
+  short_description: "用通俗产品语言生成七列中文功能用例，条件、操作与结果均从产品页面获取或验证"
+  default_prompt: "使用 $qa-test-cases，根据当前需求和提测任务，输出七列中文功能测试用例 Excel；用产品语言写清页面入口、用户操作和可见结果，省略技术实现和自动化准备说明。"
