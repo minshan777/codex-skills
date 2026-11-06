@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Bug Report"
+  short_description: "Write concise English bug reports in a fixed format"
+  default_prompt: "Use $english-bug-report to write this bug in English."
