@@ -1,0 +1,5 @@
+interface:
+  display_name: "PR 测试前置准备"
+  short_description: "准备测试 PR 时，一次解释改动、输出冒烟文档和一条手动部署验证用例"
+policy:
+  allow_implicit_invocation: true
