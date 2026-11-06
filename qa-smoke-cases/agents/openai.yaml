@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR 冒烟用例"
+  short_description: "用产品语言编写仅覆盖 PR 新增或修改功能的冒烟用例 Excel"
+  default_prompt: "使用 $qa-smoke-cases，根据当前 PR 输出冒烟用例 Excel，只覆盖新增或修改的功能。"
